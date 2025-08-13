@@ -6,7 +6,7 @@ The speed will gradually increase until you reach **20 points** – can you keep
 ---
 
 ## 📹 Demo Video
-![Watch the demo](https://github.com/user-attachments/assets/d261f963-37e9-4622-8d58-04ed7690e32b)
+[!Watch the demo](https://github.com/user-attachments/assets/d261f963-37e9-4622-8d58-04ed7690e32b)
 
 
 
